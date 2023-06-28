@@ -27,6 +27,7 @@ Como la historia de la empresa, la historia del profesional que la fundo y la me
 **B.**  Empece pidiendole la **estructura basica de HTML** para ir escribiendo el texto que habia generado anteriormente.<br>
 **C.**  Luego empezo lo mas largo y tedioso para mi,**diseñar esa estructura con CSS**. Diseñar tal y como era mi prototipo en Canva para todos los formatos y tamaños (Desktop, Movil, Tablet, etc).<br>
 **D.** Por ultimo, al tener un Formulario para que usuario registre sus datos y asi contactarse con el Asesor, decidi **utilizar JavaScript para validar los datos**, cosa que le pedi a ChatGPT pero *Hubo bastante erroes*. Lo fui solucionando con algunas ayuditas web, como Stack OverFlow, y otros sitios de ayuda.
+3. El resultado final es este: [Pagina Web](https://cusanotech.github.io/Pagina-web-ChatGPT/Front-End/index.html)
 
 
 **Estos fueron mis simples pasos al realizar esta web para "un asesor finansiero". Aunque parezca facil, me ah tomado varias horas y fases de prueba y error realizar esto, no todo fue un cuento de adas.**<Br>
